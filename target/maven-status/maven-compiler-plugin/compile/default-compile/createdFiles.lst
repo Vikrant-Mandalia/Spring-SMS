@@ -1,0 +1,6 @@
+com/vsbrains/sms/service/StudentService.class
+com/vsbrains/sms/service/impl/StudentServiceImpl.class
+com/vsbrains/sms/entity/Student.class
+com/vsbrains/sms/repository/StudentRepository.class
+com/vsbrains/sms/StudentManagementSystemApplication.class
+com/vsbrains/sms/controller/StudentController.class
